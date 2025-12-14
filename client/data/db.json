@@ -1,0 +1,115 @@
+{
+  "info": [
+    {
+      "firstName": "Scoorge",
+      "lastName": "McDuck",
+      "email": "scoorgeMcDuck@gmail.com",
+      "password": "woohoo@123",
+      "id": "f340"
+    },
+    {
+      "id": "c057",
+      "firstName": "LaunchPad",
+      "lastName": "Duck",
+      "email": "lp345@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "dbd4",
+      "firstName": "Abby",
+      "lastName": "Mallard",
+      "email": "AbbM05@gmail.com"
+    },
+    {
+      "id": "da17",
+      "firstName": "gregory",
+      "lastName": "smith",
+      "email": "GMSMITH@gmail.com",
+      "password": "123456"
+    },
+    {
+      "id": "066b",
+      "firstName": "ben",
+      "lastName": "wyatt",
+      "email": "Benwyatt@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "0bf2",
+      "firstName": "ben",
+      "lastName": "wyatt",
+      "email": "Benwyatt@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "c793",
+      "firstName": "ben",
+      "lastName": "wyatt",
+      "email": "Benwyatt@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "3500",
+      "firstName": "",
+      "lastName": "minkoff",
+      "email": "mink699@gmail.com",
+      "password": "mink699"
+    },
+    {
+      "id": "2d74",
+      "firstName": "barry",
+      "lastName": "jenkins",
+      "email": "jenkintown08@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "fa32",
+      "firstName": "john",
+      "lastName": "mcclane",
+      "email": "mcclane95@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "dbb9",
+      "firstName": "arthur",
+      "lastName": "frank",
+      "email": "frankman@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "9e58",
+      "firstName": "person",
+      "lastName": "man",
+      "email": "man34@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "69d2",
+      "firstName": "solomon",
+      "lastName": "grundy",
+      "email": "grundyman@gmail.com",
+      "password": "12345678"
+    },
+    {
+      "id": "25b2",
+      "firstName": "person1",
+      "lastName": "man1",
+      "email": "pman@gmail.com",
+      "password": "12345678"
+    }
+  ],
+  "todos": [
+    {
+      "id": "d181",
+      "task": "tasktest1",
+      "completed": false,
+      "userId": "f340"
+    },
+    {
+      "id": "7b1b",
+      "task": "tasktest2",
+      "completed": false,
+      "userId": "f340"
+    }
+  ]
+}
