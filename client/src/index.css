@@ -4,11 +4,15 @@ body{
   @apply bg-gray-200;
 }
 h1{
-  @apply text-4xl font-bold p-3;
+  @apply text-3xl md:text-4xl lg:text-5xl font-bold p-3;
 }
 
 .navbar{
-  @apply text-3xl bg-blue-500 text-white flex-grow flex justify-around p-3;
+  @apply text-xl md:text-2xl lg:text-3xl bg-blue-500 text-white flex-grow flex justify-around p-3;
+}
+
+p{
+  @apply text-base lg:text-lg;
 }
 
 form{
@@ -20,7 +24,7 @@ form{
 }
 
 input{
-  @apply border px-3 py-1 mt-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500;
+  @apply border px-3 py-1 mt-2 rounded-lg focus:outline-none focus:ring-2 focus:ring-blue-500 text-sm lg:text-base;
 }
 
 button{
